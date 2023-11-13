@@ -37,6 +37,13 @@ O objetivo deste projeto é desenvolver uma calculadora comercial simples, desen
 - Limpar: O botão C limpará a entrada.
 - Resultado: Pressione = para calcular o resultado da expressão matemática inserida.
 
+A calculadora também recebe informações do teclado, seguindo a seguinte instruções para a mamória:
+
+- Q: MC.
+- W: M+.
+- E: M-.
+- R: MR.
+
 ## Estrutura do Projeto
 
 - ```Calculadora.html```:  Cria a interface gráfica para a calculadora web.
